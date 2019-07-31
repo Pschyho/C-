@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564609095 source:d:\elte\gyakorlás\c++\2048\2048\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
